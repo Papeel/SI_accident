@@ -4,7 +4,7 @@ from tensorflow.keras.models import Model, load_model
 
 import numpy as np
 
-model = load_model('my_model.h5')
+model = load_model('Modelos/0_036.h5')
 
 
 
